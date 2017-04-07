@@ -1,16 +1,14 @@
-The RepRapPro Geared-Extruder-Drive 3D Printer design files repository
+Design files repository (forked from RepRapPro/Geared-Exruder-Drive) for the Geared-Exruder-Drive as used with the following 3D Printers
 Used in Fisher 1 from October 2015
-Used in Mendel 3 from November 2015
-Used in Mendel 3 Tricolour from November 2015
-Used in Huxley Duo from November 2015
+Used in RepRapPro Mendel 3 from November 201
+Used in RepRapPro Mendel 3 Tricolour from November 2015
+Used in RepRapPro Huxley Duo from November 2015
 
 Licensed under the GPL 3, see: http://www.gnu.org/copyleft/gpl.html
 
-For more information see: https://reprappro.com/shop/parts-kits/geared-extruder-hardware-kit/
+Files in this directory were produced in SolidWorks 2016, and is the full assembly for the Geared-Extruder-Drive.
 
-Files in this directory were produced in SolidWorks 2015, and is the full assembly for the Geared-Extruder-Drive. Some components that are shared with our other printers may be found in our "Library" repository.
-
-The 'STLs' directory contains STLs of the printed parts. Instructions for printing parts for Geared-Extruder-Drive, and a reference - itemising part numbers, descriptions and required quantities - may be found in the Fisher 1 instructions, here: https://reprappro.com/documentation/fisher-1/extruder-drive/
+The 'STLs' directory contains STLs of the printed parts.
 
 The 'dxf' folder contains the parts in a format for laser cutting.
 
